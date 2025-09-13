@@ -2,4 +2,4 @@ A custom HTML, CSS, and JavaScript Video Player that allows you to play, pause, 
 
 
 Check this site live👇
-https://saravanantech23.github.io/video-player-New/
+https://saravanantech23.github.io/video_player_New/
